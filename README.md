@@ -5,13 +5,11 @@
    To write python code to plot ROC curve used in ANN.
    
 <br>
-<br>
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-<br>
 <br>
 
 ## Related Theory Concept:
@@ -22,7 +20,6 @@ One advantage presented by ROC curves is that they aid us in finding a classific
 
 On the other hand, if our classifier is predicting whether someone has a terminal illness, we might be ok with a higher number of false positives (incorrectly diagnosing the illness), just to make sure that we don’t miss any true positives (people who actually have the illness).
 
-<br>
 <br>
 
 ## Algorithm
