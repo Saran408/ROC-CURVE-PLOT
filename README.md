@@ -18,6 +18,7 @@ On the other hand, if our classifier is predicting whether someone has a termina
 <br>
 <br>
 <br>
+
 ## Algorithm
 1.Import Necessary Packages<br>
 2.Load the Data<br>
@@ -26,6 +27,7 @@ On the other hand, if our classifier is predicting whether someone has a termina
 5.Model Diagnostics<br>
 
 <br>
+
 ## Program:
 ```
 /*
@@ -75,7 +77,9 @@ plt.legend(loc=4)
 
 plt.show()
 ```
+
 <br>
+
 ## Output:
 ![168774271-1ac53e29-d4ea-42bb-b732-01306f775638](https://user-images.githubusercontent.com/75235022/169445305-3d3a257b-b6af-42cd-85e9-6762d08b0255.png)
 
