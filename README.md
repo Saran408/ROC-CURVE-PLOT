@@ -14,6 +14,10 @@ Uses of ROC Curve :
 One advantage presented by ROC curves is that they aid us in finding a classification threshold that suits our specific problem.
 
 On the other hand, if our classifier is predicting whether someone has a terminal illness, we might be ok with a higher number of false positives (incorrectly diagnosing the illness), just to make sure that we don’t miss any true positives (people who actually have the illness).
+
+<br>
+<br>
+<br>
 ## Algorithm
 1.Import Necessary Packages<br>
 2.Load the Data<br>
@@ -21,7 +25,7 @@ On the other hand, if our classifier is predicting whether someone has a termina
 4.Fit the Logistic Regression Model<br>
 5.Model Diagnostics<br>
 
-
+<br>
 ## Program:
 ```
 /*
@@ -71,11 +75,13 @@ plt.legend(loc=4)
 
 plt.show()
 ```
-
+<br>
 ## Output:
 ![168774271-1ac53e29-d4ea-42bb-b732-01306f775638](https://user-images.githubusercontent.com/75235022/169445305-3d3a257b-b6af-42cd-85e9-6762d08b0255.png)
 
-
+<br>
+<br>
+<br>
 
 ## Result:
 Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
